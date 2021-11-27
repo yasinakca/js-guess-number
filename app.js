@@ -1,8 +1,8 @@
 /*
-    1- Userdan valid bir max num degeri al
-    2- Max number degerine gore bir random number olustur
-    3- Userda valid guess degeri al
-    4- Random number ile guess degerlerini karsilastirip sonucu dondur
+    1- Get a valid max number from user
+    2- Create a random number according to this max number
+    3- Get a valid guess value from user
+    4- Compare those two number and give the result to user
 */
 
 let maximum = parseInt(prompt("Enter the max number"));
